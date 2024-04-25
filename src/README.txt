@@ -1,8 +1,4 @@
-CSC 171
-Project 3 Something We Invent
-Group members: Ziqian Zhao, Zikun Zhou
-Net ID: zzhao48, zzhou63
-
+Group members: Ziqian Zhao
 Game Name: Kulomi’s Christmas Adventure
 
 Game Description:
